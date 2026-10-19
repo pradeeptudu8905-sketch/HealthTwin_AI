@@ -5,6 +5,9 @@ HealthTwin AI is an educational proof-of-concept that combines **synthetic histo
 
 > **Important:** This is a demo built with synthetic data. It is not a medical device, has not been clinically validated, and must not be used for diagnosis or treatment.
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3269c055-77bb-4961-be21-97f8c7fdccf8" />
+
+
 ## Competition requirements demonstrated
 - Two data streams: historical patient records + changing wearable readings
 - Machine-learning prediction pipeline
