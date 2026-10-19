@@ -15,6 +15,14 @@ HealthTwin AI is an educational proof-of-concept that combines **synthetic histo
 ## Technology stack
 Python, Pandas, NumPy, scikit-learn, Streamlit, Plotly.
 
+
+## System Architecture
+
+The diagram below shows how HealthTwin AI processes synthetic patient records and simulated wearable readings to estimate elevated-glucose event risk.
+
+![HealthTwin AI System Architecture](docs/architecture_diagram.png)
+
+
 ## Run locally
 1. Install Python 3.10+.
 2. Open a terminal in this project folder.
