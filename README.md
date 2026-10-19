@@ -33,6 +33,12 @@ The diagram below shows how HealthTwin AI processes synthetic patient records an
 
 ![HealthTwin AI System Architecture](docs/architecture_diagram.png)
 
+## Dashboard Preview
+
+The dashboard provides a visual overview of patient information, key indicators, trends, and estimated elevated-glucose event risk.
+
+![HealthTwin AI Dashboard](docs/dashboard_screenshot.png)
+
 
 ## Run locally
 1. Install Python 3.10+.
